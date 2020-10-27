@@ -1,0 +1,799 @@
+{
+  "frontend_qualifiers": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "HTML": "3Y 2M",
+        "CSS": "3Y 2M",
+        "JS": "3Y 2M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "9/10",
+        "JS": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "HTML": "1Y 2M",
+        "CSS": "1Y 2M",
+        "JS": "1Y 2M"
+      },
+      "Results": {
+        "HTML": "8/10",
+        "CSS": "8/10",
+        "JS": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "HTML": "0Y 6M",
+        "CSS": "0Y 6M",
+        "JS": "0Y 6M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "7/10",
+        "JS": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "HTML": "2Y 6M",
+        "CSS": "2Y 6M",
+        "JS": "2Y 6M"
+      },
+      "Results": {
+        "HTML": "10/10",
+        "CSS": "6/10",
+        "JS": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "HTML": "1Y 0M",
+        "CSS": "1Y 0M",
+        "JS": "1Y 0M"
+      },
+      "Results": {
+        "HTML": "8/10",
+        "CSS": "7/10",
+        "JS": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "HTML": "5Y 1M",
+        "CSS": "5Y 1M",
+        "JS": "5Y 1M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "8/10",
+        "JS": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "HTML": "2Y 4M",
+        "CSS": "2Y 4M",
+        "JS": "2Y 4M"
+      },
+      "Results": {
+        "HTML": "9/10",
+        "CSS": "8/10",
+        "JS": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "HTML": "0Y 8M",
+        "CSS": "0Y 8M",
+        "JS": "0Y 8M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "10/10",
+        "JS": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "HTML": "4Y 4M",
+        "CSS": "4Y 4M",
+        "JS": "4Y 4M"
+      },
+      "Results": {
+        "HTML": "9/10",
+        "CSS": "10/10",
+        "JS": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "HTML": "3Y 3M",
+        "CSS": "3Y 3M",
+        "JS": "3Y 3M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "10/10",
+        "JS": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "backend_qualifiers": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "JAVA": "3Y 2M",
+        "PHP": "3Y 2M",
+        "MySQL": "3Y 2M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "9/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "JAVA": "1Y 2M",
+        "PHP": "1Y 2M",
+        "MySQL": "1Y 2M"
+      },
+      "Results": {
+        "JAVA": "8/10",
+        "PHP": "8/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "JAVA": "0Y 6M",
+        "PHP": "0Y 6M",
+        "MySQL": "0Y 6M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "7/10",
+        "MySQL": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "JAVA": "2Y 6M",
+        "PHP": "2Y 6M",
+        "MySQL": "2Y 6M"
+      },
+      "Results": {
+        "JAVA": "10/10",
+        "PHP": "6/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "JAVA": "1Y 0M",
+        "PHP": "1Y 0M",
+        "MySQL": "1Y 0M"
+      },
+      "Results": {
+        "JAVA": "8/10",
+        "PHP": "7/10",
+        "MySQL": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "JAVA": "5Y 1M",
+        "PHP": "5Y 1M",
+        "MySQL": "5Y 1M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "8/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "JAVA": "2Y 4M",
+        "PHP": "2Y 4M",
+        "MySQL": "2Y 4M"
+      },
+      "Results": {
+        "JAVA": "9/10",
+        "PHP": "8/10",
+        "MySQL": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "JAVA": "0Y 8M",
+        "PHP": "0Y 8M",
+        "MySQL": "0Y 8M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "10/10",
+        "MySQL": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "JAVA": "4Y 4M",
+        "PHP": "4Y 4M",
+        "MySQL": "4Y 4M"
+      },
+      "Results": {
+        "JAVA": "9/10",
+        "PHP": "10/10",
+        "MySQL": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "JAVA": "3Y 3M",
+        "PHP": "3Y 3M",
+        "MySQL": "3Y 3M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "10/10",
+        "MySQL": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "embedded_systems": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "C_Objective": "3Y 2M",
+        "CPP": "3Y 2M",
+        "Linux": "3Y 2M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "9/10",
+        "Linux": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "C_Objective": "1Y 2M",
+        "CPP": "1Y 2M",
+        "Linux": "1Y 2M"
+      },
+      "Results": {
+        "C_Objective": "8/10",
+        "CPP": "8/10",
+        "Linux": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "C_Objective": "0Y 6M",
+        "CPP": "0Y 6M",
+        "Linux": "0Y 6M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "7/10",
+        "Linux": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "C_Objective": "2Y 6M",
+        "CPP": "2Y 6M",
+        "Linux": "2Y 6M"
+      },
+      "Results": {
+        "C_Objective": "10/10",
+        "CPP": "6/10",
+        "Linux": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "C_Objective": "1Y 0M",
+        "CPP": "1Y 0M",
+        "Linux": "1Y 0M"
+      },
+      "Results": {
+        "C_Objective": "8/10",
+        "CPP": "7/10",
+        "Linux": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "C_Objective": "5Y 1M",
+        "CPP": "5Y 1M",
+        "Linux": "5Y 1M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "8/10",
+        "Linux": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "C_Objective": "2Y 4M",
+        "CPP": "2Y 4M",
+        "Linux": "2Y 4M"
+      },
+      "Results": {
+        "C_Objective": "9/10",
+        "CPP": "8/10",
+        "Linux": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "C_Objective": "0Y 8M",
+        "CPP": "0Y 8M",
+        "Linux": "0Y 8M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "10/10",
+        "Linux": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "C_Objective": "4Y 4M",
+        "CPP": "4Y 4M",
+        "Linux": "4Y 4M"
+      },
+      "Results": {
+        "C_Objective": "9/10",
+        "CPP": "10/10",
+        "Linux": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "C_Objective": "3Y 3M",
+        "CPP": "3Y 3M",
+        "Linux": "3Y 3M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "10/10",
+        "Linux": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "data_science": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "Python": "3Y 2M",
+        "Algorithms": "3Y 2M",
+        "Analysis": "3Y 2M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "9/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "Python": "1Y 2M",
+        "Algorithms": "1Y 2M",
+        "Analysis": "1Y 2M"
+      },
+      "Results": {
+        "Python": "8/10",
+        "Algorithms": "8/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "Python": "0Y 6M",
+        "Algorithms": "0Y 6M",
+        "Analysis": "0Y 6M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "7/10",
+        "Analysis": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "Python": "2Y 6M",
+        "Algorithms": "2Y 6M",
+        "Analysis": "2Y 6M"
+      },
+      "Results": {
+        "Python": "10/10",
+        "Algorithms": "6/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "Python": "1Y 0M",
+        "Algorithms": "1Y 0M",
+        "Analysis": "1Y 0M"
+      },
+      "Results": {
+        "Python": "8/10",
+        "Algorithms": "7/10",
+        "Analysis": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "Python": "5Y 1M",
+        "Algorithms": "5Y 1M",
+        "Analysis": "5Y 1M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "8/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "Python": "2Y 4M",
+        "Algorithms": "2Y 4M",
+        "Analysis": "2Y 4M"
+      },
+      "Results": {
+        "Python": "9/10",
+        "Algorithms": "8/10",
+        "Analysis": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "Python": "0Y 8M",
+        "Algorithms": "0Y 8M",
+        "Analysis": "0Y 8M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "10/10",
+        "Analysis": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "Python": "4Y 4M",
+        "Algorithms": "4Y 4M",
+        "Analysis": "4Y 4M"
+      },
+      "Results": {
+        "Python": "9/10",
+        "Algorithms": "10/10",
+        "Analysis": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "Python": "3Y 3M",
+        "Algorithms": "3Y 3M",
+        "Analysis": "3Y 3M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "10/10",
+        "Analysis": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "employee": [
+    {
+      "id": 2,
+      "name": "Suraj Bhai Sane",
+      "designation": "Python Developer",
+      "company": "Cisco",
+      "location": "Bangalore"
+    },
+    {
+      "id": 3,
+      "name": "Aditi Bhatti",
+      "designation": "Database Admin",
+      "company": "J K L Industries",
+      "location": "Kerala"
+    },
+    {
+      "id": 4,
+      "name": "Tejaswani Ehsaan Rama",
+      "designation": "HR Recruiter",
+      "company": "E F G",
+      "location": "Delhi"
+    },
+    {
+      "id": 5,
+      "name": "Suraj Bhai Sane",
+      "designation": "Python Developer",
+      "company": "Cisco",
+      "location": "Bangalore"
+    },
+    {
+      "id": 6,
+      "name": "Aditi Bhatti",
+      "designation": "Database Admin",
+      "company": "J K L Industries",
+      "location": "Chennai"
+    },
+    {
+      "id": 7,
+      "name": "Tejaswani Ehsaan Rama",
+      "designation": "HR Recruiter",
+      "company": "E F G",
+      "location": "Kerala"
+    },
+    {
+      "id": 8,
+      "name": "Suraj Bhai Sane",
+      "designation": "Python Developer",
+      "company": "Cisco",
+      "location": "Bangalore"
+    },
+    {
+      "id": 9,
+      "name": "Aditi Bhatti",
+      "designation": "Database Admin",
+      "company": "J K L Industries",
+      "location": "Chennai"
+    },
+    {
+      "id": 10,
+      "name": "Tejaswani Ehsaan Rama",
+      "designation": "HR Recruiter",
+      "company": "E F G",
+      "location": "Kerala"
+    }
+  ],
+  "joblisting": [
+    {
+      "id": 1,
+      "designation": "Electric Design Engineer",
+      "status": "Active",
+      "location": "Bangalore",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Aditya Mukund",
+      "recruiter_position": "HR Recruiter",
+      "company": "E F G",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 2,
+      "designation": "Software Engineer",
+      "status": "Inactive",
+      "location": "Delhi",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Raghavan Sundaram",
+      "recruiter_position": "System Programmer",
+      "company": "Cisco",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 3,
+      "designation": "Data Science",
+      "status": "Recently Added",
+      "location": "Delhi",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Ritika Soni",
+      "recruiter_position": "Senior Data Engineer",
+      "company": "ZS Systems",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 4,
+      "designation": "Business Intelligent Consultant",
+      "status": "Active",
+      "location": "Kerala",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Fatima Mishra",
+      "recruiter_position": "Senior Business Consultant",
+      "company": "K P M G",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 5,
+      "designation": "Web Developer",
+      "status": "Inactive",
+      "location": "Kerala",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Sirish Mutti",
+      "recruiter_position": "HR Recruiter",
+      "company": "Zomato",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 6,
+      "designation": "Database Co-Ordinator",
+      "status": "Active",
+      "location": "Mumbai",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Mohith Umesh",
+      "recruiter_position": "Database Specialist",
+      "company": "LMNOP Industries",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 7,
+      "designation": "Supply Chain Co-Ordinator",
+      "status": "Recently Added",
+      "location": "Bangalore",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Aditi Shetty",
+      "recruiter_position": "Associate Warehouse Manager",
+      "company": "Amazon",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "id": 8,
+      "designation": "Front End Developer",
+      "status": "Recently Added",
+      "location": "Chennai",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Mohanlal Rama",
+      "recruiter_position": "HR Recruiter",
+      "company": "Electric Suitcase",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n -Data Science(10 Candidates)\n -Web Developer(15 Candidates)\n -Embedded Systems(7 Candidates)"
+    },
+    {
+      "designation": "Back End Developer",
+      "status": "Active",
+      "location": "Hyderabad",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Tejaswani",
+      "recruiter__position": "",
+      "company": "LG Soft",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\\n -Data Science(10 Candidates)\\n -Web Developer(15 Candidates)\\n -Embedded Systems(7 Candidates)",
+      "recruiter_position": "Project Manager",
+      "id": 9
+    },
+    {
+      "designation": "Embedded Systems",
+      "status": "Active",
+      "location": "Mumbai",
+      "datepost": "17-Jun-2020",
+      "recruiter_name": "Samantha",
+      "recruiter__position": "",
+      "company": "Cranes Varsity",
+      "description": "We believe in a rigorous and analytical approach to decision making. Making good decisions is fundamental to success in the financial markets. Becoming a good decision maker requires reflection and practice. We provide training and support to help each individual to",
+      "proposal": "We are looking to hire fresh individuals to join fields in:\n-Data Science(10 Candidates)\n-Web Developer(15 Candidates)\n-Embedded Systems(7 Candidates)",
+      "recruiter_position": "Embedded Developer",
+      "id": 10
+    }
+  ]
+}
